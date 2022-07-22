@@ -6,6 +6,8 @@ To run the OddsPrediction FastAPI, please execute this colab notebook: https://c
 
 Add a "/docs" to the ngrok.io link, which is provided by the notebook, to try the API out!
 
+Our general Notebook for Data Preperation, Data Exploration, Feauture Engineering, Model Training and Evaluation can be accessed here: https://colab.research.google.com/drive/1Jk0f9JjHdEfo3SIHKjyNXH7UQRYfeeaa?usp=sharing
+
 ## Team Members: 
 - Pascal Schmidt
 - Philipp Becht
