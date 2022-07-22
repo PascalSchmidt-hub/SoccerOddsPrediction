@@ -2,6 +2,9 @@
 
 Applied Machine Learning Project @DHBW Mannheim
 
+To run the OddsPrediction FastAPI, pleas execute this colab notebook: https://colab.research.google.com/drive/12vOZjGgW9qPbrzZsceZ0oFJxLvlYCqva?usp=sharing
+Add a "/docs" to the ngrok.io link, which is provided by the notebook, to try the API out!
+
 ## Team Members: 
 - Pascal Schmidt
 - Philipp Becht
